@@ -1,0 +1,92 @@
+Question 1
+tranfer disk from A to B
+tranfer disk from A to B
+tranfer disk from C to A
+tranfer disk from A to B
+tranfer disk from C to A
+tranfer disk from C to A
+tranfer disk from B to C
+Done!!
+
+Question 2
+Pascal Triangle Maker
+
+With Interations: 
+Enter the number of rows: 5
+    1  
+
+   1  1  
+
+  1  2  1  
+
+ 1  3  3  1  
+
+1  4  6  4  1  
+
+
+With recursion:
+Enter the no. of rows:5
+          1 
+
+         1 1 
+
+        1 2 1 
+
+       1 3 3 1 
+
+      1 4 6 4 1 
+
+Done!
+Done
+
+Question 3
+
+Enter 2 numbers: 24 12
+
+3(a)
+Checking if the quotient and remainder is a callable value or not...
+False
+False
+
+3(b)
+The reminder is zero
+
+3(c)
+Filtered out numbers that are greater than 4 are : [6, 5, 7, 5, 8, 6]
+
+3(d)
+Set:  {8, 5, 6, 7}
+3(e)
+Immutable set:  frozenset({8, 5, 6, 7})
+
+3(f)
+Hash value of the max value from the above set:  8
+Done
+
+Question 4
+
+Tanveer Singh
+21104061
+Done
+
+Question 5
+
+Name of employee is: Mehak and salary is: 40000
+Name of employee is: Ashok and salary is: 50000
+Name of employee is: Viren and salary is: 60000
+
+5(a)
+The updated salary of Mehak is:  70000
+
+5(b)
+The record of Viren has been successfully deleted
+Done
+
+Qusetion 6
+
+Enter the word by George:trust
+Enter word by Barbie:rust
+Possible Words are: ['trust', 'rtust', 'rutst', 'rustt', 'rustt', 'turst', 'utrst', 'urtst', 'urstt', 'urstt', 'tusrt', 'utsrt', 'ustrt', 'usrtt', 'usrtt', 'tustr', 'utstr', 'usttr', 'usttr', 'ustrt', 'trsut', 'rtsut', 'rstut', 'rsutt', 'rsutt', 'tsrut', 'strut', 'srtut', 'srutt', 'srutt', 'tsurt', 'sturt', 'sutrt', 'surtt', 'surtt', 'tsutr', 'stutr', 'suttr', 'suttr', 'sutrt', 'trstu', 'rtstu', 'rsttu', 'rsttu', 'rstut', 'tsrtu', 'strtu', 'srttu', 'srttu', 'srtut', 'tstru', 'sttru', 'sttru', 'strtu', 'strut', 'tstur', 'sttur', 'sttur', 'stutr', 'sturt', 'truts', 'rtuts', 'rutts', 'rutts', 'rutst', 'turts', 'utrts', 'urtts', 'urtts', 'urtst', 'tutrs', 'uttrs', 'uttrs', 'utrts', 'utrst', 'tutsr', 'uttsr', 'uttsr', 'utstr', 'utsrt', 'trtus', 'rttus', 'rttus', 'rtuts', 'rtust', 'ttrus', 'ttrus', 'trtus', 'truts', 'trust', 'tturs', 'tturs', 'tutrs', 'turts', 'turst', 'ttusr', 'ttusr', 'tutsr', 'tustr', 'tusrt', 'trtsu', 'rttsu', 'rttsu', 'rtstu', 'rtsut', 'ttrsu', 'ttrsu', 'trtsu', 'trstu', 'trsut', 'ttsru', 'ttsru', 'tstru', 'tsrtu', 'tsrut', 'ttsur', 'ttsur', 'tstur', 'tsutr', 'tsurt']
+If Barbie's word is present in the list , then their friendship is real.
+Your Friendship is fake.
+Done
